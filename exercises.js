@@ -4,6 +4,8 @@
  *
  * @param {Array} // [1,2,3]
  * @return {Array} // [2,4,6]
+ *
+ * ***Here's a Freebie to get you started!!!***
  */
 var doubleArray = function(arr) {
   var result = [];
